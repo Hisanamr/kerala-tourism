@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.mymargin{
+    margin: 20px;
+}
+#form
+{
+    border: 4px solid black;
+    padding: 2px;
+    background-color: cadetblue;
+    color: darkblue;
+    text-decoration: solid;
+    
+}
+.kerala{
+    margin: 7%;
+    
+}
